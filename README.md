@@ -8,3 +8,4 @@
 ### Physics
 
 - [sat-js](https://github.com/jriecken/sat-js) General collisions detection 
+- [collide-2d](https://github.com/bmoren/p5.collide2D) Lightweight p5.js Physics library. 
